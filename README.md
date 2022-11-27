@@ -1,7 +1,9 @@
 # 🧠 Exercices resolving
 
-### Logic exercices resolving: NepsAcademy and Edabit
+### Logic exercices resolving: NepsAcademy and Edabit.
 
+
+#### 👆 Click on the image to acess:
 
 <div align="center">
 <h4>Edabit</h4>
